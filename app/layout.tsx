@@ -20,7 +20,7 @@ export default function RootLayout({
         <header className="border-b border-slate-800/70 sticky top-0 backdrop-blur bg-slate-950/70 z-50">
           <nav className="container flex items-center justify-between py-4">
             <Link href="/" className="font-semibold tracking-wide">
-              Team Algorithm
+              Team Algorithm Tech Institute
             </Link>
             <div className="flex items-center gap-4 text-sm">
               <Link href="/programs" className="hover:text-cyan-400">

@@ -1,0 +1,8 @@
+{
+  "/(site)/page": "app/(site)/page.js",
+  "/(site)/(pages)/programs/page": "app/(site)/(pages)/programs/page.js",
+  "/(site)/(pages)/about/page": "app/(site)/(pages)/about/page.js",
+  "/(site)/(pages)/courses/page": "app/(site)/(pages)/courses/page.js",
+  "/(site)/(pages)/admissions/page": "app/(site)/(pages)/admissions/page.js",
+  "/(site)/(pages)/contact/page": "app/(site)/(pages)/contact/page.js"
+}
